@@ -1,0 +1,3 @@
+﻿  源.cpp
+E:\王氏代码\钟小姐的期末作业\StudentSystem\源.cpp(802,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  StudentSystem.vcxproj -> E:\王氏代码\钟小姐的期末作业\StudentSystem\Debug\StudentSystem.exe
